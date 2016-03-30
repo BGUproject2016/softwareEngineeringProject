@@ -1,0 +1,6 @@
+c:\users\ספיר\documents\visual studio 2015\Projects\softwareEngineeringProject\softwareEngineeringProject\bin\Debug\softwareEngineeringProject.exe.config
+C:\Users\ספיר\Documents\Visual Studio 2015\Projects\softwareEngineeringProject\softwareEngineeringProject\bin\Debug\softwareEngineeringProject.exe
+C:\Users\ספיר\Documents\Visual Studio 2015\Projects\softwareEngineeringProject\softwareEngineeringProject\bin\Debug\softwareEngineeringProject.pdb
+C:\Users\ספיר\Documents\Visual Studio 2015\Projects\softwareEngineeringProject\softwareEngineeringProject\obj\Debug\softwareEngineeringProject.csprojResolveAssemblyReference.cache
+C:\Users\ספיר\Documents\Visual Studio 2015\Projects\softwareEngineeringProject\softwareEngineeringProject\obj\Debug\softwareEngineeringProject.exe
+C:\Users\ספיר\Documents\Visual Studio 2015\Projects\softwareEngineeringProject\softwareEngineeringProject\obj\Debug\softwareEngineeringProject.pdb
